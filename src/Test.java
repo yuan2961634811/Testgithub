@@ -8,4 +8,7 @@ public class Test {
 	//nimaya
 	//CHENGGONLE
 	//QUESHICHENGGONGLE
+	public static void main(String[] args) {
+		
+	}
 }
